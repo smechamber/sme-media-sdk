@@ -2,7 +2,7 @@ import { MediaClient } from "../src/index.js";
 
 const media = new MediaClient({
   baseUrl: "https://media.smebusinessforum.com",
-  token: "hshgsaddhsaddhgsaddjsaddisadgdwahsdajsadghsadh",
+  token: "",
 });
 
 async function main() {
